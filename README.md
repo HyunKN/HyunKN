@@ -8,5 +8,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunKN\&include_all_commits=true)
-
+![My GitHub stats](https://github-readme-stats-eta-tan-47.vercel.app/api?username=HyunKN&count_private=true&include_all_commits=true&v=1)
